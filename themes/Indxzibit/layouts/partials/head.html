@@ -1,0 +1,16 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="/css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+  <link rel="stylesheet" type="text/css" href="/css/b.css">
+  <link rel="stylesheet" type="text/css" href="/css/p3.css">
+  <link rel="stylesheet" type="text/css" href="/css/mj.css">
+  <script type="text/javascript" src="js/paper.js"></script>
+  <script type="text/javascript" src="js/nav.js"></script>
+  <script type="text/paperscript" src="js/hitTest.js" canvas="hitTest" resize="true">
+  </script>
+  {{ $title := print .Site.Title }}
+  {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+  <title>{{ $title }}</title>
+</head>

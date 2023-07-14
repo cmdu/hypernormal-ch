@@ -1,0 +1,16 @@
+<!DOCTYPE html>  
+<html lang="{{ .Site.LanguageCode }}">  
+    {{- partial "head.html" . -}}  
+    <body>                    
+        <div id="indxzibit">
+            <div id="indx">
+                {{- partial "indx.html" . -}}
+            </div>
+            <div id="xzibit">
+                <main>
+                    {{- block "main" . }}{{- end }}  
+                </main>
+            </div>
+        </div>
+    </body>  
+</html>
