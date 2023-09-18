@@ -19,13 +19,11 @@ Bullingerstrasse 102
 <br />
 <br />
 
-# Diese Website
-
-hypernormal.ch ist eine einfache auf [Jamstack](https://en.wikipedia.org/wiki/Jamstack)-Architektur basierende statische Webseite, _prebuilt_ von [Hugo](https://gohugo.io/). Es werden Systemschriften in den Stärken 400 und 500 verwendet. Sie verbraucht pro Pageview nur ein Minimum an Energie.
+**hypernormal.ch** ist eine einfache auf [Jamstack](https://en.wikipedia.org/wiki/Jamstack)-Architektur basierende statische Webseite. Prebuilt von [Hugo](https://gohugo.io/), gehosted von [Github](https://github.com/cmdu/hypernormal-ch) und global ausgeliefert von [Netlify](https://www.netlify.com/). Sie verbraucht pro Pageview nur sehr wenig Energie.
 
 {{< carbon >}}
 
-Farben und Bilder dieser Webseite nutzen die Vorteile des grossen Farbraums von DCI-P3, der rund einen Drittel mehr Farben darstellen kann als sRGB. Ist im untenstehenden Kreis ein Farbunterschied erkennenbar, ist das Display P3-kompatibel. Siehe auch [Wide Gamut](https://www.wide-gamut.com/). Schwarz und Weiss sind auf dieser Webseite nicht ganz schwarz und nicht ganz weiss. So ist es angenehmer für die Augen.
+Es werden Systemschriften verwendet. Farben und Bilder dieser Webseite nutzen die Vorteile des grossen Farbraums von DCI-P3, der rund einen Drittel mehr Farben darstellen kann als sRGB. Ist im roten Kreis ein Farbunterschied erkennenbar, kann das Display DCI-P3 darstellen. Siehe auch [Wide Gamut](https://www.wide-gamut.com/). Schwarz und Weiss sind auf dieser Webseite nicht ganz schwarz und nicht ganz weiss, das ist angenehmer für die Augen.
 
 <!-- Startseite: _Hit Test_ von [Paper.js](http://paperjs.org/). -->
 
