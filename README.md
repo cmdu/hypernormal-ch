@@ -1,3 +1,2 @@
-# hypernormal.ch
-Website for Hyper Normal KLG, built with HUGO
-# hypernormal-ch
+# Website for Hyper Normal
+Built with HUGO
