@@ -1,0 +1,9 @@
+.mj {
+  display: inline-block;
+  width: fit-content;
+  height: fit-content;
+  color: black;
+  padding: 14px 20px;
+  background-color: white;
+  border-radius: 0.5rem;
+}
