@@ -1,9 +1,9 @@
 var values = {
-	paths: 11,
-	minPoints: 7,
+	paths: 8,
+	minPoints: 8,
 	maxPoints: 13,
-	minRadius: 60,
-	maxRadius: 230
+	minRadius: 80,
+	maxRadius: 300
 };
 
 var hitOptions = {
@@ -92,4 +92,6 @@ function onMouseDrag(event) {
 		path.position += event.delta;
 	}
 }
+
+
 
